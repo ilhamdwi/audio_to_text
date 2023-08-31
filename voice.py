@@ -24,4 +24,4 @@ def conversion(file, lang):
         print("No text to save.")
 
 if __name__ == "__main__":
-    conversion("file_voice/voice1.wav", "id" )
+    conversion("file_voice/voice3.wav", "id" )
